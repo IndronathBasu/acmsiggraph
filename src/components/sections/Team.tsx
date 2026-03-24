@@ -15,7 +15,7 @@ const team = [
     role: "Vice Chair",
     bio: "UI/UX designer focused on immersive VR interfaces.",
     image: "https://picsum.photos/seed/sarah/400/400",
-    linkedin: "https://linkedin.com/in/sarah-chen",
+    linkedin: "https://www.linkedin.com/in/ishaanbakshi/",
     github: "https://github.com/sarah-chen"
   },
   {
@@ -39,7 +39,7 @@ const team = [
     role: "Web Master",
     bio: "Frontend architect building high-performance web graphics.",
     image: "https://picsum.photos/seed/marcus/400/400",
-    linkedin: "https://linkedin.com/in/marcus-thorne",
+    linkedin: "https://www.linkedin.com/in/aadi-mandavia-006571259/",
     github: "https://github.com/marcus-thorne"
   },
   {
