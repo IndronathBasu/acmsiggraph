@@ -47,7 +47,7 @@ const team = [
     role: "Membership Chair",
     bio: "Community builder and advocate for diversity in tech.",
     image: "images/Aaryan Solanki.png",
-    linkedin: "www.linkedin.com/in/aaryan-solanki-it",
+    linkedin: "https://www.linkedin.com/in/aaryan-solanki-it",
     github: "https://github.com/aaryan-cloud"
   }
 ];
