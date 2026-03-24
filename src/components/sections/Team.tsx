@@ -7,7 +7,7 @@ const team = [
     role: "Chair",
     bio: "Computer Vision and Graphics enthusiast and lead researcher in real-time rendering.",
     image: "https://picsum.photos/seed/alex/400/400",
-    linkedin: "www.linkedin.com/in/indronathbasu",
+    linkedin: "https://www.linkedin.com/in/indronathbasu/",
     github: "https://github.com/IndronathBasu"
   },
   {
