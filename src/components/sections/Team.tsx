@@ -16,7 +16,7 @@ const team = [
     bio: "UI/UX designer focused on immersive VR interfaces.",
     image: "https://picsum.photos/seed/sarah/400/400",
     linkedin: "https://www.linkedin.com/in/ishaanbakshi/",
-    github: "https://github.com/sarah-chen"
+    github: "https://github.com/ishaan0017"
   },
   {
     name: "Viraj Deglurkar",
@@ -40,7 +40,7 @@ const team = [
     bio: "Frontend architect building high-performance web graphics.",
     image: "https://picsum.photos/seed/marcus/400/400",
     linkedin: "https://www.linkedin.com/in/aadi-mandavia-006571259/",
-    github: "https://github.com/marcus-thorne"
+    github: "https://github.com/aadimandavia"
   },
   {
     name: "Aaryan Solanki",
