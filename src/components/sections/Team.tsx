@@ -6,37 +6,49 @@ const team = [
     name: "Indronath Basu",
     role: "Chair",
     bio: "Computer Vision and Graphics enthusiast and lead researcher in real-time rendering.",
-    image: "https://picsum.photos/seed/alex/400/400"
+    image: "https://picsum.photos/seed/alex/400/400",
+    linkedin: "www.linkedin.com/in/indronathbasu",
+    github: "https://github.com/IndronathBasu"
   },
   {
     name: "Ishaan Bakshi",
     role: "Vice Chair",
     bio: "UI/UX designer focused on immersive VR interfaces.",
-    image: "https://picsum.photos/seed/sarah/400/400"
+    image: "https://picsum.photos/seed/sarah/400/400",
+    linkedin: "https://linkedin.com/in/sarah-chen",
+    github: "https://github.com/sarah-chen"
   },
   {
     name: "Viraj Deglurkar",
     role: "Secretary",
     bio: "Full-stack developer with a passion for procedural generation.",
-    image: "https://picsum.photos/seed/david/400/400"
+    image: "https://picsum.photos/seed/david/400/400",
+    linkedin: "https://linkedin.com/in/david-kumar",
+    github: "https://github.com/david-kumar"
   },
   {
     name: "Soumil Mehrotra",
     role: "Treasurer",
     bio: "Data scientist exploring AI-driven animation techniques.",
-    image: "https://picsum.photos/seed/elena/400/400"
+    image: "https://picsum.photos/seed/elena/400/400",
+    linkedin: "https://linkedin.com/in/elena-petrova",
+    github: "https://github.com/elena-petrova"
   },
   {
     name: "Aadi Pradeep Mandavia",
     role: "Web Master",
     bio: "Frontend architect building high-performance web graphics.",
-    image: "https://picsum.photos/seed/marcus/400/400"
+    image: "https://picsum.photos/seed/marcus/400/400",
+    linkedin: "https://linkedin.com/in/marcus-thorne",
+    github: "https://github.com/marcus-thorne"
   },
   {
     name: "Aaryan Solanki",
     role: "Membership Chair",
     bio: "Community builder and advocate for diversity in tech.",
-    image: "https://picsum.photos/seed/aisha/400/400"
+    image: "images/Aaryan Solanki.png",
+    linkedin: "www.linkedin.com/in/aaryan-solanki-it",
+    github: "https://github.com/aaryan-cloud"
   }
 ];
 
@@ -78,8 +90,12 @@ export function Team() {
                     referrerPolicy="no-referrer"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center gap-3">
-                    <Linkedin className="w-5 h-5 cursor-pointer hover:text-primary transition-colors" />
-                    <Github className="w-5 h-5 cursor-pointer hover:text-primary transition-colors" />
+                    <a href={member.linkedin} target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                      <Linkedin className="w-5 h-5" />
+                    </a>
+                    <a href={member.github} target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                      <Github className="w-5 h-5" />
+                    </a>
                   </div>
                 </div>
                 
