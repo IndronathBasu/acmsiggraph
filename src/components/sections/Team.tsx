@@ -38,7 +38,7 @@ const team = [
     name: "Aadi Pradeep Mandavia",
     role: "Web Master",
     bio: "Frontend architect building high-performance web graphics.",
-    image: "https://picsum.photos/seed/marcus/400/400",
+    image: "images/Aadi Mandavia.jpeg",
     linkedin: "https://www.linkedin.com/in/aadi-mandavia-006571259/",
     github: "https://github.com/aadimandavia"
   },
