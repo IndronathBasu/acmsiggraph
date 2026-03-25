@@ -37,7 +37,7 @@ const team = [
   {
     name: "Aadi Pradeep Mandavia",
     role: "Web Master",
-    bio: "Frontend architect building high-performance web graphics.",
+    bio: "Data scientist and Web Developer exploring AI-driven animation techniques.",
     image: "images/Aadi Mandavia.jpeg",
     linkedin: "https://www.linkedin.com/in/aadi-mandavia-006571259/",
     github: "https://github.com/aadimandavia"
