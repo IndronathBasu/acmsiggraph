@@ -13,8 +13,8 @@ const team = [
   {
     name: "Ishaan Bakshi",
     role: "Vice Chair",
-    bio: "UI/UX designer focused on immersive VR interfaces.",
-    image: "https://picsum.photos/seed/sarah/400/400",
+    bio: "UI/UX designer focused on immersive VR interfaces",
+    image: "images/Ishaan Bakshi.png",
     linkedin: "https://www.linkedin.com/in/ishaanbakshi/",
     github: "https://github.com/ishaan0017"
   },
