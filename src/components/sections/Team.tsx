@@ -23,7 +23,7 @@ const team = [
     role: "Secretary",
     bio: "Full-stack developer with a passion for procedural generation.",
     image: "https://picsum.photos/seed/david/400/400",
-    linkedin: "https://linkedin.com/in/david-kumar",
+    linkedin: "https://www.linkedin.com/in/viraj-deglurkar/",
     github: "https://github.com/david-kumar"
   },
   {
@@ -31,8 +31,8 @@ const team = [
     role: "Treasurer",
     bio: "Data scientist exploring AI-driven animation techniques.",
     image: "https://picsum.photos/seed/elena/400/400",
-    linkedin: "https://linkedin.com/in/elena-petrova",
-    github: "https://github.com/elena-petrova"
+    linkedin: "https://www.linkedin.com/in/soumil-mehrotra-72623131b/",
+    github: "https://github.com/TheDaredevil26"
   },
   {
     name: "Aadi Pradeep Mandavia",
