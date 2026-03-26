@@ -22,7 +22,7 @@ const team = [
     name: "Viraj Deglurkar",
     role: "Secretary",
     bio: "Full-stack developer with a passion for procedural generation.",
-    image: "https://picsum.photos/seed/david/400/400",
+    image: "images/Viraj.jpeg",
     linkedin: "https://www.linkedin.com/in/viraj-deglurkar/",
     github: "https://github.com/david-kumar"
   },
