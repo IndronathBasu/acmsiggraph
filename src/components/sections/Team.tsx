@@ -24,7 +24,7 @@ const team = [
     bio: "Full-stack developer with a passion for procedural generation.",
     image: "images/Viraj.jpeg",
     linkedin: "https://www.linkedin.com/in/viraj-deglurkar/",
-    github: "https://github.com/david-kumar"
+    github: "https://github.com/Virajjj646"
   },
   {
     name: "Soumil Mehrotra",
