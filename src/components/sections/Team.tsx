@@ -30,7 +30,7 @@ const team = [
     name: "Soumil Mehrotra",
     role: "Treasurer",
     bio: "Data scientist exploring AI-driven animation techniques.",
-    image: "image/Soumil.png",
+    image: "images/Soumil.png",
     linkedin: "https://www.linkedin.com/in/soumil-mehrotra-72623131b/",
     github: "https://github.com/TheDaredevil26"
   },
